@@ -18,6 +18,16 @@ controls: false
 
 
 --
+# Who uses it?
+
+- Facebook
+- Wikipedia
+- Etsy
+- Baidu
+- [more...](https://github.com/facebook/hhvm/wiki/Users)
+
+
+--
 # How does it work?
 PHP/Hack `==>` intermediate bytecode `=(runtime)=>` machine code
 
@@ -28,16 +38,6 @@ PHP/Hack `==>` intermediate bytecode `=(runtime)=>` machine code
 - Static analysis tools
 - Refactor/maintain legacy PHP code? [1]
 - Bonus: higher performance/lower resource usage
-
-
---
-# Who uses it?
-
-- Facebook
-- Wikipedia
-- Etsy
-- Baidu
-- [more...](https://github.com/facebook/hhvm/wiki/Users)
 
 
 --
