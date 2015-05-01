@@ -1,6 +1,6 @@
 <?hh
 
-function foo(): string{
+function foo(): string {
   return "foo";
 }
 
