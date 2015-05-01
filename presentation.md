@@ -41,12 +41,11 @@ PHP/Hack `==>` intermediate bytecode `=(runtime)=>` machine code
 
 
 --
-# Hack
+# Hack Language
 
-- Hack language
-  - superset of PHP
-  - opt-in static typing (w/ type inference)
-  - other goodies (map/filter/reduce, enums, nullable types, immutable collections, ...)
+- superset of PHP
+- opt-in static typing (w/ type inference)
+- other goodies (map/filter/reduce, enums, nullable types, immutable collections, ...)
 
 
 --
